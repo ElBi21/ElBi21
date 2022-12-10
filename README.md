@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ElBi21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ElBi21/ElBi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• the elon musk of fucking bad ideas
+• Pio XI / Broederschool / Sapienza
+• `8830` :flag_be:﻿ / :flag_it:﻿ `00183` • **AFS 20/21**
+• :fleur_de_lis:﻿ (**10**) • MA / HM
+• `</JS.HTML.CSS.PY(?)>` • ACSAI
