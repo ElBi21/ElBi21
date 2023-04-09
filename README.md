@@ -27,4 +27,4 @@
 \end{The Languages That I Know}
 ```
 
-https://i.imgur.com/Q89aSeR.png
+---
