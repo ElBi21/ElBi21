@@ -5,6 +5,10 @@
 
 # Leonardo Biason
 
+[![](https://img.shields.io/badge/-leonardobiason-informational?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardobiason/)](https://www.linkedin.com/in/leonardobiason)
+
+---
+
 - "_the elon musk of fucking bad ideas_"
 - Pio XI / Broederschool / ACSAI @ Sapienza
 - `8830` 🇧🇪 / 🇮🇹 `00183` • **AFS 20/21** • Active AFS Volunteer
