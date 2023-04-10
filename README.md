@@ -21,7 +21,7 @@
 ---
 
 ```latex
-\begin{The Languages That I Know}
+\begin{The Programming Languages That I Know}
   \begin{itemize}
     \item JavaScript
     \item HTML
@@ -35,4 +35,13 @@
 \end{The Languages That I Know}
 ```
 
+```json
+{
+  "Spoken Languages": {
+    "Italian": "⭐⭐⭐⭐⭐",
+    "English": "⭐⭐⭐⭐",
+    "Dutch": "⭐⭐⭐",
+  },
+}
+```
 ---
