@@ -41,6 +41,7 @@
     "Italian": "⭐⭐⭐⭐⭐",
     "English": "⭐⭐⭐⭐",
     "Dutch": "⭐⭐⭐",
+    "Spanish": "⭐⭐"
   },
 }
 ```
