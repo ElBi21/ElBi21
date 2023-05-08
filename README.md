@@ -3,7 +3,7 @@
 <img align="right" src="https://i.imgur.com/HVvAkeT.png" width="50%">
 
 
-# Leonardo Biason
+<h1 align="center">Leonardo Biason</h1>
 
 [![](https://img.shields.io/badge/-leonardo_biason-informational?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardobiason/)](https://www.linkedin.com/in/leonardobiason)
 [![](https://img.shields.io/badge/-Diapa-orange?style=for-the-badge&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/diapa_/)](https://www.reddit.com/user/diapa_)
