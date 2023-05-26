@@ -24,8 +24,9 @@
 \begin{The Programming Languages That I Know}
   \begin{itemize}
     \item JavaScript
-    \item HTML (ik it's not a programming language
-                but I'll still put it here)
+    \item HTML (ik it's not a programming
+                language but I'll still
+                put it here)
     \item CSS
     \item Python
     \item Assembly RISC-V
