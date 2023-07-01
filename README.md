@@ -33,6 +33,7 @@
     \item SystemVerilog
     \item LaTeX
     \item Java (Work In Progress)
+    \item Rust (Work In Progress)
   \end{itemize}
 \end{The Languages That I Know}
 ```
