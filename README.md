@@ -32,7 +32,7 @@
     \item Assembly RISC-V
     \item SystemVerilog
     \item LaTeX
-    \item Java (Work In Progress)
+    \item Java
     \item Rust (Work In Progress)
   \end{itemize}
 \end{The Languages That I Know}
