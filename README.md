@@ -22,7 +22,7 @@
 
 ```latex
 \begin{The "Programming" Languages That I Know}
-  % ordered by when I learned them!
+  % Ordered by when I learned them!
   \begin{itemize}
     \item JavaScript
     \item HTML (ik it's not a programming
