@@ -21,7 +21,7 @@
 ---
 
 ```latex
-\begin{The Programming Languages That I Know}
+\begin{The "Programming" Languages That I Know}
   \begin{itemize}
     \item JavaScript
     \item HTML (ik it's not a programming
@@ -34,8 +34,9 @@
     \item LaTeX
     \item Java
     \item Rust (Work In Progress)
+    \item R (Work In Progress)
   \end{itemize}
-\end{The Languages That I Know}
+\end{The "Programming" Languages That I Know}
 ```
 
 ```json
