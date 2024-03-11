@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/-ElBi2112-blueviolet?style=for-the-badge&logo=Twitch&logoColor=white&link=https://www.twitch.tv/elbi2112/)](https://www.twitch.tv/elbi2112)
 [![](https://img.shields.io/badge/-Diapa-9cf?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/diapa_/)](https://www.twitter.com/diapa_)
 [![](https://img.shields.io/badge/-Leonardo_Diapa-critical?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@diapa_/)](https://www.youtube.com/@diapa_)
+[![](https://img.shields.io/badge/-Leonardo_Diapa-7851a9?style=for-the-badge&logo=Mastodon&logoColor=white&link=https://mastodon.social/@diapa)](https://mastodon.social/@diapa)
 
 ---
 
