@@ -40,6 +40,7 @@
     \item Java
     \item Rust (Work In Progress)
     \item R (Work In Progress)
+    \item C++ (Work In Progress)
   \end{itemize}
 \end{The "Programming" Languages That I Know}
 ```
