@@ -26,21 +26,22 @@
 
 ```latex
 \begin{The "Programming" Languages That I Know}
-  % Ordered by when I learned them!
+  % Ordered by when I learned them! 
+  % + Level of expertise in the []
   \begin{itemize}
-    \item JavaScript
-    \item HTML (ik it's not a programming
+    \item[2/5] JavaScript
+    \item[4/5] HTML (ik it's not a programming
                 language but I'll still
                 put it here)
-    \item CSS
-    \item Python
-    \item Assembly RISC-V
-    \item SystemVerilog
-    \item LaTeX
-    \item Java
-    \item Rust (Work In Progress)
-    \item R (Work In Progress)
-    \item C++ (Work In Progress)
+    \item[3/5] CSS
+    \item[5/5] Python
+    \item[2/5] Assembly RISC-V
+    \item[1/5] SystemVerilog
+    \item[4/5] LaTeX
+    \item[2/5] Java
+    \item[1/5] Rust (Work In Progress)
+    \item[1/5] R (Work In Progress)
+    \item[2/5] C/C++ (Work In Progress)
   \end{itemize}
 \end{The "Programming" Languages That I Know}
 ```
