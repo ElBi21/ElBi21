@@ -17,7 +17,7 @@
 
 ---
 
-- "_the elon musk of f***ing bad ideas_"
+- "_the stephen hawking of bad ideas_"
 - Pio XI / Broederschool / ACSAI @ Sapienza
 - `8830` 🇧🇪 / 🇮🇹 `00183` • **AFS 20/21** • Active AFS Volunteer
 - ⚜️ (**10**) • MA / HM • Nikon D80
