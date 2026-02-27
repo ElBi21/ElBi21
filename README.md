@@ -18,7 +18,7 @@
 ---
 
 - "_the stephen hawking of bad ideas_"
-- Pio XI / Broederschool / ACSAI @ Sapienza
+- ACSAI @ Sapienza / HPC Engineering @ PoliMi
 - `8830` 🇧🇪 / 🇮🇹 `00183` • **AFS 20/21** • Active AFS Volunteer
 - ⚜️ (**10**) • MA / HM • Nikon D80
 
