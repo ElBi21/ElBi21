@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-Shortly put, I'm Leo, an <b>HPC Engineering</b> student @ <a href="https://polimi.it">Politecnico di Milano</a>, and I'm into <b>low-level development</b>, novel architectures for <b>hardware accelerators</b> and <b>scientific computing</b>! I'm part of two teams: one is <a href="https://plum-juice-project.github.io/plum-io/"><b>PlumJuice</b></a>, a team of students from Sapienza University of Rome, and I've competed in the IndySCC'25 competition (I still serve as advisor for the newer entries); the other is <a href"https://sapienzastudents.net"><b>SapienzaStudents</b></a>, a community of students from the department of Computer Science in Sapienza; with them, I built the website of the association which serves as a knowledge hub for all the students in the department.
+Shortly put, I'm Leo, an <b>HPC Engineering</b> student @ <a href="https://polimi.it">Politecnico di Milano</a>, and I'm into <b>low-level development</b>, novel architectures for <b>hardware accelerators</b> and <b>scientific computing</b>! I'm part of two teams: one is <a href="https://plum-juice-project.github.io/plum-io/"><b>PlumJuice</b></a>, a team of students from Sapienza University of Rome, and I've competed in the IndySCC'25 competition (I still serve as advisor for the newer entries); the other is <a href="https://sapienzastudents.net"><b>SapienzaStudents</b></a>, a community of students from the department of Computer Science in Sapienza; with them, I built the website of the association which serves as a knowledge hub for all the students in the department.
 </p>
 
 ```latex
